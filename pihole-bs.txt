@@ -56,3 +56,5 @@ help.getadblock.com
 tpc.googlesyndication.com
 encrypted-tbn0.gstatic.com
 ads.companion.com
+i.ytimg.com
+
