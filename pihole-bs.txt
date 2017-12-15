@@ -38,6 +38,8 @@ r6---sn-5hne6nlr.googlevideo.com
 r3.sn-a5mlrn7k.googlevideo.com
 r3---sn-a5mlrn7k.googlevideo.com
 i3.ytimg.com
+i.ytimg.com
+
 r5---sn-5hne6nsk.googlevideo.com
 r2---sn-o097znll.googlevideo.com
 client.cobrowser.net
