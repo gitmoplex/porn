@@ -113,8 +113,5 @@ pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 nunl.aws.sanomaservices.nl
 www.w3.org
-
-
-
-
-
+secure.quantserve.com
+static.addtoany.com
